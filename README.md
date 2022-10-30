@@ -1,3 +1,4 @@
+![UML_diagram](https://user-images.githubusercontent.com/91637094/198861049-e474ef0b-77ed-4a4b-9b7f-8fea2d2706a5.png)
 # 361-Microservice
 
 Purpose: Generate a Random Number between 10 and 20, inclusively.
